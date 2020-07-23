@@ -1,0 +1,3 @@
+[submodule "rabbit-articulate"]
+	path = rabbit-articulate
+	url = git@github.com:gwdgithubnom/rabbit-articulate.git
